@@ -21,19 +21,17 @@ top: 1
 sidebar: []
 ---
 
-## section 1
+## What's in this site
 
-Jekyll also offers powerful support for code snippets:
+* 在这个站点，你可能看到很多杂乱的东西，但最主要的是
 
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+* 嵌入式 / 边缘计算 / 操作系统 / 独立开发
 
-## section 2
+* 仍在学习中，希望未来能去山里放羊：）
+
+
+
+<!-- ## section 2
 <!-- 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
@@ -46,7 +44,7 @@ $ a \* b = c ^ b $
 $ 2^{\frac{n-1}{3}} $
 
 $ \int_a^b f(x)\,dx. $ -->
-
+<!-- 
 ```cpp
 #include <iostream>
 using namespace std;
@@ -68,4 +66,4 @@ p1 = Person("John", 36)
 
 print(p1.name)
 print(p1.age)
-```
+``` --> -->
