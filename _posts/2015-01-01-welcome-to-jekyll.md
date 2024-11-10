@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
+title: Welcome!!
+subtitle: A short introduction of the site
+author: Lethe
 categories: jekyll
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
+  #video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
-  volume: 0.8
-  start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  #volume: 0.8
+  #start_at: 8.5
+  image: /img/welcome-bg.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
