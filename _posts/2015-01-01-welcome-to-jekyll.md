@@ -4,7 +4,6 @@ title: Welcome!!
 subtitle: A short introduction of the site
 author: Lethe
 categories: jekyll
-date: 2024-11-10 15:23
 banner:
   #video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
