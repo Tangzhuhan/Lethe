@@ -34,4 +34,30 @@ sidebar: []
 
 ## STEP 2 开启Github Pages
 
+  进入仓库的Setting界面，在左侧栏找到 *Pages* ，在 *Build and deployment* 下找到 *Branch* 并选择 **master** 和 **/(root)**
 
+  这个操作可以让你以目前仓库master分支下的代码部署Page，如果想以别的分支的代码来建立就将 **master** 切换为指定分支
+
+## STEP 3 Jekyll快速指南
+  Jekyll的目录结构如下：
+  * _layouts : 存放页面的模板，在.md和.html等文件中可以引用模板
+  * _sass : 存放样式表
+  * _ posts : 存放博客文章，以.md文件为主
+  * _includes : 存放可复用的html文件
+  * assets : 存放原生的资源文件，例如js, css, image(博客中引用的图片可以放在这里) 
+  * _config.yaml : 全局配置文件
+  * 其他自定义目录和文件
+
+  详细目录结构请参考Jekyll官网[Jekyll](https://jekyllrb.com/docs/structure)
+
+## STEP 4 拉取仓库代码到本地
+  * 安装Gitbash
+  * 新建文件夹，并使用Gitbash将Github仓库中的文件拉取到本地
+  * win+R 打开cmd界面，cd 进入到刚才新建的文件夹里
+
+## STEP 5 本地配置Jekyll环境
+  * 安装 Ruby
+    在计算机上安装Ruby，进入官网[Ruby](https://www.ruby-lang.org/zh_cn/)下载并安装
+
+  * 安装 RubyGems
+    RubyGems是Ruby的包管理器，用于安装和管理Ruby库和应用程序。一般情况下，RubyGems和Ruby会一起安装。
